@@ -1,0 +1,24 @@
+# Ignore auxiliary LaTeX files
+*.aux
+*.bbl
+*.blg
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+
+# Ignore other common LaTeX-generated files
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.sav
+
+# Ignore build directories
